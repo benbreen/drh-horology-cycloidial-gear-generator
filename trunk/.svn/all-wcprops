@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/10/trunk
+END
+master.build
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/8/trunk/master.build
+END
+BuildAndPackage_Release.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/BuildAndPackage_Release.bat
+END
+Version.xml
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/9/trunk/Version.xml
+END

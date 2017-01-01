@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/trunk/GearBuilder/SvgNet/SvgNet
+END
+Types.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/GearBuilder/SvgNet/SvgNet/Types.cs
+END
+SvgLinearGradient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgLinearGradient.cs
+END
+SvgElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgElement.cs
+END
+SvgTitleElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgTitleElement.cs
+END
+SvgException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgException.cs
+END
+SvgTextElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgTextElement.cs
+END
+SvgFilterElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgFilterElement.cs
+END
+SvgStyle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgStyle.cs
+END
+SVGGraphics.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SVGGraphics.cs
+END
+SvgLineElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgLineElement.cs
+END
+SvgPolygonElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgPolygonElement.cs
+END
+GDIGraphics.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/GDIGraphics.cs
+END
+AbstractGraphics.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/AbstractGraphics.cs
+END
+SvgPolylineElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgPolylineElement.cs
+END
+SvgPathElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgPathElement.cs
+END
+SvgGroupElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgGroupElement.cs
+END
+SVGGDINotImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SVGGDINotImpl.cs
+END
+SvgRectElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgRectElement.cs
+END
+SvgEllipseElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgEllipseElement.cs
+END
+svgnetdoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/svgnetdoc.xml
+END
+SvgTransformList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgTransformList.cs
+END
+SvgSvgElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgSvgElement.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/trunk/GearBuilder/SvgNet/SvgNet/AssemblyInfo.cs
+END
+ElementInterfaces.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/ElementInterfaces.cs
+END
+SvgStyledElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgStyledElement.cs
+END
+SvgSymbolElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgSymbolElement.cs
+END
+SvgNet.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/trunk/GearBuilder/SvgNet/SvgNet/SvgNet.csproj
+END
+SvgElementFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/GearBuilder/SvgNet/SvgNet/SvgElementFactory.cs
+END

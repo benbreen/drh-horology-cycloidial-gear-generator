@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/10/trunk/GearBuilder
+END
+GearBuilder.build
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/GearBuilder/GearBuilder.build
+END
+CommonAssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/GearBuilder/CommonAssemblyInfo.cs
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/GearBuilder/License.txt
+END
+GearBuilder.sln
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/GearBuilder/GearBuilder.sln
+END
+default.build
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6/trunk/GearBuilder/default.build
+END

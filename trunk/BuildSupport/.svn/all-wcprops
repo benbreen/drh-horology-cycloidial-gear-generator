@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/8/trunk/BuildSupport
+END
+SharedBuild.include
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8/trunk/BuildSupport/SharedBuild.include
+END
+MasterBuild.include
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/BuildSupport/MasterBuild.include
+END

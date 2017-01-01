@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9/trunk/GearBuilder/GearBuilder/Cycloidal
+END
+Pinion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/GearBuilder/GearBuilder/Cycloidal/Pinion.cs
+END
+Tooth.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/GearBuilder/GearBuilder/Cycloidal/Tooth.cs
+END
+Gear.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/GearBuilder/GearBuilder/Cycloidal/Gear.cs
+END
+CycloidalGear.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/GearBuilder/GearBuilder/Cycloidal/CycloidalGear.cs
+END
+WheelTooth.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/GearBuilder/GearBuilder/Cycloidal/WheelTooth.cs
+END
+Wheel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/GearBuilder/GearBuilder/Cycloidal/Wheel.cs
+END
+PinionTooth.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/GearBuilder/GearBuilder/Cycloidal/PinionTooth.cs
+END

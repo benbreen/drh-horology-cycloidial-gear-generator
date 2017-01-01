@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/GearBuilder/GearBuilder.UI
+END
+MainForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/GearBuilder/GearBuilder.UI/MainForm.resx
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/GearBuilder/GearBuilder.UI/Program.cs
+END
+MainForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/GearBuilder/GearBuilder.UI/MainForm.Designer.cs
+END
+MainForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/GearBuilder/GearBuilder.UI/MainForm.cs
+END
+GearBuilder.UI.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/GearBuilder/GearBuilder.UI/GearBuilder.UI.csproj
+END
